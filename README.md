@@ -12,6 +12,8 @@ https://github.com/codestation21/news
 
 https://news-sh.netlify.app
 
+https://news-next-redux-axios-react-grid-gallery.vercel.app/
+
 ## Environment variables:
 
 ```java
